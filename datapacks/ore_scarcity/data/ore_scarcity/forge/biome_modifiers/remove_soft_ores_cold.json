@@ -1,0 +1,13 @@
+{
+  "type": "forge:remove_features",
+  "biomes": [
+    "#minecraft:is_mountain",
+    "#minecraft:is_snowy"
+  ],
+  "features": [
+    "minecraft:ore_copper",
+    "minecraft:ore_copper_large",
+    "minecraft:ore_coal"
+  ],
+  "step": "underground_ores"
+}

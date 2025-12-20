@@ -1,0 +1,12 @@
+{
+  "type": "forge:remove_features",
+  "biomes": [
+    "#minecraft:is_ocean",
+    "#minecraft:is_beach"
+  ],
+  "features": [
+    "minecraft:ore_diamond",
+    "minecraft:ore_diamond_large"
+  ],
+  "step": "underground_ores"
+}

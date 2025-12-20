@@ -1,8 +1,7 @@
 {
   "type": "forge:remove_features",
   "biomes": [
-    "minecraft:desert",
-    "minecraft:badlands"
+    "#ore_scarcity:desert"
   ],
   "features": [
     "minecraft:ore_iron",

@@ -1,7 +1,7 @@
 {
   "type": "forge:remove_features",
   "biomes": [
-    "#minecraft:is_overworld"
+    "#ore_scarcity:overworld"
   ],
   "features": [
     "minecraft:ore_diamond"

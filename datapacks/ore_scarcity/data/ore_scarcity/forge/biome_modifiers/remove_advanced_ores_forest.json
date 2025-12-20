@@ -1,8 +1,7 @@
 {
   "type": "forge:remove_features",
   "biomes": [
-    "#minecraft:is_forest",
-    "minecraft:plains"
+    "#ore_scarcity:forest"
   ],
   "features": [
     "minecraft:ore_gold",

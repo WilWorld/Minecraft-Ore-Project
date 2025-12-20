@@ -7,6 +7,12 @@
     "#minecraft:mangrove_swamp",
     "#minecraft:beach",
     "#minecraft:snowy_beach",
-    "#minecraft:stony_shore"
+    "#minecraft:stony_shore",
+  
+    
+    "terralith:gravel_beach",
+    "terralith:ice_marsh",
+    "terralith:orchid_swamp",
+    "terralith:warm_river"
   ]
 }

@@ -1,7 +1,18 @@
 {
     "type": "forge:remove_features",
     "biomes": [
-        "#ore_scarcity:flatLand"
+        "#minecraft:plains",
+        "#minecraft:sunflower_plains",
+        "#minecraft:snowy_plains",
+        "#minecraft:ice_spikes",
+
+        "terralith:cold_shrubland",
+        "terralith:lavender_valley",
+        "terralith:lush_valley",
+        "terralith:moonlight_valley",
+        "terralith:sakura_valley",
+        "terralith:valley_clearing",
+        "terralith:wintry_lowlands"
     ],
     "features": [
         "minecraft:ore_gold",

@@ -1,0 +1,16 @@
+{
+    "type": "forge:remove_features",
+    "biomes": [
+        "#ore_scarcity:offLand"
+    ],
+    "features": [
+        "minecraft:ore_redstone",
+        "minecraft:ore_gold",
+        "minecraft:ore_gold_lower",
+        "minecraft:ore_diamond",
+        "minecraft:ore_diamond_large",
+        "minecraft:ore_copper",
+        "minecraft:ore_copper_large"
+    ],
+    "step": "underground_ores"
+}
